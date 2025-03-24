@@ -1,7 +1,4 @@
 <div>
-    <div styles={{ display: 'flex', flexDirection: 'row' }}>
-        <img src="https://media.giphy.com/media/l4FGo0SjgDIy67d9S/giphy.gif" alt="waveGif" width="150" height="150" /> 
-    </div>
     <div>
         <h3 align="left">
             Connect with me:
